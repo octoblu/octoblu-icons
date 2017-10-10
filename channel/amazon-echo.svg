@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="41px" height="53px" viewBox="0 0 41 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>alexa</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="outer" sketch:type="MSLayerGroup" fill="#00C1E0">
+            <circle id="Oval-1" sketch:type="MSShapeGroup" cx="20.5" cy="20.5" r="20.5"></circle>
+            <path d="M15.8823242,40.3911133 L15.6967773,52.003418 L17.3359375,52.9296875 L36.0185547,33.8769531 L15.8823242,40.3911133 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+        </g>
+        <g id="inner" sketch:type="MSLayerGroup" transform="translate(20.586525, 23.571013) scale(-1, 1) rotate(11.000000) translate(-20.586525, -23.571013) translate(7.910549, 8.071013)" fill="#FFFFFF">
+            <ellipse id="Oval-1" sketch:type="MSShapeGroup" cx="12.6759766" cy="12.1037736" rx="12.6759766" ry="12.1037736"></ellipse>
+            <path d="M9.82068147,23.8628943 L9.70595035,30.435897 L10.7195092,30.9602005 L22.2717247,20.1756338 L9.82068147,23.8628943 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

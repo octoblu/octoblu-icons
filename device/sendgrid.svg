@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sendgrid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" fill="#1A82E3" x="200" y="0" width="100" height="100"></rect>
+        <rect id="Rectangle-1" fill="#01B3E3" x="100" y="0" width="100" height="100"></rect>
+        <rect id="Rectangle-1" fill="#009DD8" x="100" y="100" width="100" height="100"></rect>
+        <rect id="Rectangle-1" fill="#01B3E3" x="200" y="100" width="100" height="100"></rect>
+        <rect id="Rectangle-1" fill="#1A82E3" transform="translate(50.000000, 250.000000) rotate(-270.000000) translate(-50.000000, -250.000000) " x="0" y="200" width="100" height="100"></rect>
+        <rect id="Rectangle-1" fill="#99E1F5" transform="translate(50.000000, 150.000000) rotate(-270.000000) translate(-50.000000, -150.000000) " x="1.42108547e-14" y="100" width="100" height="100"></rect>
+        <rect id="Rectangle-1" fill="#99E1F5" transform="translate(150.000000, 250.000000) rotate(-270.000000) translate(-150.000000, -250.000000) " x="100" y="200" width="100" height="100"></rect>
+    </g>
+</svg>

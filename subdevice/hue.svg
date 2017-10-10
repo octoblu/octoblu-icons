@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="27.125"
+   height="46.041573"
+   id="svg3039">
+  <metadata
+     id="metadata3045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3043" />
+  <g
+     transform="translate(-0.002741,0.01229956)"
+     id="layer1"
+     style="display:inline" />
+  <g
+     transform="translate(-0.002741,0.01229956)"
+     id="layer2"
+     style="display:inline" />
+  <g
+     transform="translate(39.09375,-16.927177)"
+     id="g3059">
+    <path
+       d="m -35.614035,30.438596 c 20.087719,0 20.175439,0 20.175439,0 -3.187135,5.847953 -2.339182,12.836258 -2.982457,19.912281 -0.497076,1.374269 -0.643274,1.520468 -2.017543,2.017544 -3.333333,-0.02924 -6.666667,-0.05848 -10,-0.08772 -1.608187,-0.08772 -1.725147,-0.263158 -2.192983,-1.842106 -0.555556,-6.842105 0.248538,-14.403753 -2.982456,-19.999999 z"
+       id="path3051"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -35.732767,30.319864 c -0.964913,-2.5731 -2.863724,-5.14605 -2.863724,-7.688285 0.08908,-5.760213 7.853527,-5.175439 12.894737,-5.175439 5.321477,0 13.245614,-0.584869 13.245614,5.175439 0,2.662754 -1.988304,5.263158 -2.982456,7.894737 z"
+       id="path3055"
+       style="fill:#ffee93;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -30.701754,52.368421 c 0,7.54386 0,7.631579 0,7.631579 0,1.663471 2.64738,2.45614 5,2.45614 2.603353,0 5.701754,-0.684456 5.701754,-2.631579 l 0,-7.543859 z"
+       id="path3057"
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

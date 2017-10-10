@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-145 197 400 400"
+	 enable-background="new -145 197 400 400" xml:space="preserve">
+<title>Oculus VR Eye Logo</title>
+<g transform="translate(180,100)">
+	<path id="oculuseye_schlera" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" fill="#3D3D3D" d="M-300,297
+		c0,0,71-95.5,175-95.5c99.1,0,175,95.5,175,95.5s-71,95.5-175,95.5C-219,392.5-300,297-300,297z M-66,299c0,32.6-26.4,59-59,59
+		s-59-26.4-59-59s26.4-59,59-59S-66,266.4-66,299z"/>
+	
+		<path id="oculuseye_pupil" sodipodi:ry="26" sodipodi:cy="2" sodipodi:type="arc" sodipodi:cx="0" sodipodi:rx="26" inkscape:label="#oculuseye_pupil" fill="#447CE3" d="
+		M-99,299c0,14.4-11.6,26-26,26s-26-11.6-26-26s11.6-26,26-26S-99,284.6-99,299z"/>
+</g>
+</svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="348px" height="351px" viewBox="0 0 348 351" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>philips-hue-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CACECF" offset="0%"></stop>
+            <stop stop-color="#9BA0A3" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-2" cx="173" cy="174.5" rx="173" ry="174.5"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#EFF0F2" offset="0%"></stop>
+            <stop stop-color="#D9DDE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#2F2F2F" offset="0%"></stop>
+            <stop stop-color="#BCC0C2" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-5" cx="173" cy="173" r="161"></circle>
+        <circle id="path-6" cx="170.5" cy="103.5" r="2.5"></circle>
+        <circle id="path-7" cx="47.5" cy="47.5" r="47.5"></circle>
+        <circle id="path-8" cx="2.5" cy="12.5" r="2.5"></circle>
+        <circle id="path-9" cx="2.5" cy="2.5" r="2.5"></circle>
+        <circle id="path-10" cx="47.5" cy="47.5" r="47.5"></circle>
+        <circle id="path-11" cx="2.5" cy="12.5" r="2.5"></circle>
+        <circle id="path-12" cx="2.5" cy="2.5" r="2.5"></circle>
+        <circle id="path-13" cx="12.5" cy="12.5" r="2.5"></circle>
+        <circle id="path-14" cx="12.5" cy="2.5" r="2.5"></circle>
+        <circle id="path-15" cx="47.5" cy="47.5" r="47.5"></circle>
+        <circle id="path-16" cx="2.5" cy="10.5" r="2.5"></circle>
+        <circle id="path-17" cx="9.5" cy="6.5" r="2.5"></circle>
+        <circle id="path-18" cx="2.5" cy="2.5" r="2.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Button-1" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <g id="Oval-1">
+                <use stroke="#CCCFD0" stroke-width="1" fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use stroke="none" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <g id="Oval-1-Copy">
+                <use stroke="url(#linearGradient-4)" stroke-width="2" fill="#EEEFF1" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                <use stroke="none" fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+            </g>
+            <g id="Oval-1-Copy-8">
+                <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-6"></use>
+                <use fill="none" xlink:href="#path-6"></use>
+            </g>
+        </g>
+        <g id="Button-2" sketch:type="MSLayerGroup" transform="translate(38.000000, 128.000000)">
+            <g id="Oval-1-Copy-2">
+                <use stroke="url(#linearGradient-4)" stroke-width="2" fill="#EEEFF1" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
+                <use stroke="none" fill="url(#linearGradient-3)" xlink:href="#path-7"></use>
+            </g>
+            <g id="Dots" transform="translate(45.000000, 40.000000)">
+                <g id="Oval-1-Copy-3">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
+                    <use fill="none" xlink:href="#path-8"></use>
+                </g>
+                <g id="Oval-1-Copy-4">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-9"></use>
+                    <use fill="none" xlink:href="#path-9"></use>
+                </g>
+            </g>
+        </g>
+        <g id="Button-4" sketch:type="MSLayerGroup" transform="translate(216.000000, 126.000000)">
+            <g id="Oval-1-Copy-2">
+                <use stroke="url(#linearGradient-4)" stroke-width="2" fill="#EEEFF1" sketch:type="MSShapeGroup" xlink:href="#path-10"></use>
+                <use stroke="none" fill="url(#linearGradient-3)" xlink:href="#path-10"></use>
+            </g>
+            <g id="Dots" transform="translate(40.000000, 40.000000)">
+                <g id="Oval-1-Copy-3">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-11"></use>
+                    <use fill="none" xlink:href="#path-11"></use>
+                </g>
+                <g id="Oval-1-Copy-4">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-12"></use>
+                    <use fill="none" xlink:href="#path-12"></use>
+                </g>
+                <g id="Oval-1-Copy-7">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-13"></use>
+                    <use fill="none" xlink:href="#path-13"></use>
+                </g>
+                <g id="Oval-1-Copy-6">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-14"></use>
+                    <use fill="none" xlink:href="#path-14"></use>
+                </g>
+            </g>
+        </g>
+        <g id="Button-3" sketch:type="MSLayerGroup" transform="translate(128.000000, 218.000000)">
+            <g id="Oval-1-Copy-2">
+                <use stroke="url(#linearGradient-4)" stroke-width="2" fill="#EEEFF1" sketch:type="MSShapeGroup" xlink:href="#path-15"></use>
+                <use stroke="none" fill="url(#linearGradient-3)" xlink:href="#path-15"></use>
+            </g>
+            <g id="Dots" transform="translate(42.000000, 41.000000)">
+                <g id="Oval-1-Copy-3">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-16"></use>
+                    <use fill="none" xlink:href="#path-16"></use>
+                </g>
+                <g id="Oval-1-Copy-5">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-17"></use>
+                    <use fill="none" xlink:href="#path-17"></use>
+                </g>
+                <g id="Oval-1-Copy-4">
+                    <use fill="#7E8389" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-18"></use>
+                    <use fill="none" xlink:href="#path-18"></use>
+                </g>
+            </g>
+        </g>
+        <g id="Philips" sketch:type="MSLayerGroup" transform="translate(142.000000, 36.000000)" fill="#666666">
+            <path d="M41.7567568,2.74566202 L41.7567568,0.210830554 C45.0675676,0.15689797 45.2027027,0.116448532 46.2837838,0.143414824 C47.9594595,0.183864262 48.972973,0.669257521 49.7027027,1.39734741 C50.4054054,2.11195415 50.9594595,3.19060584 50.9324324,4.75465078 C50.9189189,5.65802157 50.3513514,8.98835864 46.3108108,9.19060584 C45.8378378,9.23105527 44.7432432,9.19060584 44.0540541,9.21757213 L44.7432432,6.61532494 C46.3513514,6.7501564 47.6216216,6.23779685 47.6891892,4.72768449 C47.7567568,3.02880808 46.2567568,2.48948224 44.7432432,2.74566202 L41.7567568,2.74566202" id="Shape-Copy-9" sketch:type="MSShapeGroup"></path>
+            <path d="M44.7432432,11.6224719 L41.7567568,11.6224719 L41.7567568,2.15730337 L44.7432432,2.17078652 L44.7432432,11.6224719" id="Shape-Copy" sketch:type="MSShapeGroup"></path>
+            <path d="M55.4648144,4.2228062 L57.9107604,5.09921069 C59.5458955,5.7464017 59.8837333,7.04078372 59.8702198,8.17336799 C59.8296793,10.7756152 57.7485982,11.7464017 56.0864361,11.8947163 C54.1945442,12.0565141 52.7350847,11.7329186 52.2485982,11.6655028 L52.2485982,8.83404215 C53.7485982,9.29246912 55.4783279,9.26550283 56.0729225,9.03628934 C56.5188685,8.86100844 56.8567063,8.60482867 56.8296793,8.25426687 C56.8161658,8.06550283 56.8026523,7.8228062 56.2350847,7.59359271 L53.9783279,6.7711208 C52.532382,6.24527811 51.9648144,4.86999721 52.032382,3.65651406 C52.1540036,1.18909833 54.1404901,-0.0648342533 56.1134631,0.00258147706 C56.7215712,0.0295477692 57.5458955,0.0160646231 58.7350847,0.177862376 L58.7350847,2.98235676 C57.3972469,2.6722444 56.7621117,2.6722444 56.0729225,2.76662642 C55.3026523,2.86100844 54.9513009,3.26550283 54.9648144,3.68348035 C54.9918415,3.8722444 55.2080577,4.10145788 55.4648144,4.2228062" id="Shape-Copy-2" sketch:type="MSShapeGroup"></path>
+            <path d="M13.6621622,4.53033708 L16.8783784,4.53033708 L16.8783784,0.269662921 L19.8648649,0.269662921 L19.8648649,11.7168539 L16.8783784,11.7168539 L16.8783784,7.11910112 L13.6621622,7.11910112 L13.6621622,11.7168539 L10.6756757,11.7168539 L10.6756757,0.269662921 L13.6621622,0.269662921 L13.6621622,4.53033708" id="Shape-Copy-3" sketch:type="MSShapeGroup"></path>
+            <path d="M22.5675676,0.269662921 L25.5540541,0.269662921 L25.5540541,11.7168539 L22.5675676,11.7168539 L22.5675676,0.269662921 L22.5675676,0.269662921 Z" id="Shape-Copy-4" sketch:type="MSShapeGroup"></path>
+            <path d="M35.9459459,0.269662921 L38.9324324,0.269662921 L38.9324324,11.7168539 L35.9459459,11.7168539 L35.9459459,0.269662921 L35.9459459,0.269662921 Z" id="Shape-Copy-5" sketch:type="MSShapeGroup"></path>
+            <path d="M31.3648649,9.11460674 L34.4459459,9.11460674 L34.4459459,11.7168539 L28.3783784,11.7168539 L28.3783784,0.269662921 L31.3648649,0.269662921 L31.3648649,9.11460674" id="Shape-Copy-6" sketch:type="MSShapeGroup"></path>
+            <path d="M3.10862447e-14,2.74566202 L3.10862447e-14,0.210830554 C3.31081081,0.15689797 3.44594595,0.116448532 4.52702703,0.143414824 C6.2027027,0.183864262 7.21621622,0.669257521 7.94594595,1.39734741 C8.64864865,2.11195415 9.2027027,3.19060584 9.17567568,4.75465078 C9.16216216,5.65802157 8.59459459,8.98835864 4.55405405,9.19060584 C4.08108108,9.23105527 3.02702703,9.19060584 2.32432432,9.21757213 L2.97297297,6.61532494 C4.58108108,6.7501564 5.85135135,6.23779685 5.91891892,4.72768449 C5.98648649,3.02880808 4.48648649,2.48948224 2.97297297,2.74566202 L3.10862447e-14,2.74566202" id="Shape-Copy-7" sketch:type="MSShapeGroup"></path>
+            <path d="M2.98648649,11.7033708 L0,11.7033708 L0,2.42696629 L2.98648649,2.44044944 L2.98648649,11.7033708" id="Shape-Copy-8" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
